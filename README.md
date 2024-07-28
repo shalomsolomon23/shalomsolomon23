@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shalom Solomon
 - 🌱 I’m currently learning Msc.Big Data Analytics.
-- 📫 How to reach me 7708200907
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 7708200907
+
 
 <!---
 shalomsolomon23/shalomsolomon23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
